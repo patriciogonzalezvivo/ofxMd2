@@ -1,0 +1,14 @@
+www.byJellyFish.com develop a viewer for 3D objects and animations on MD2 DOOM formats under C++
+
+As he said on oF forum ( http://www.openframeworks.cc/forum/viewtopic.php?f=12&t=4742&hilit=md2 ):
+
+"This format is fantastic! thanks to the same file we can load both the object and animation. And it works amazing but there is a thousand objects on screen without losing the timing of the animation at any time.
+In addition, all the 3D software can export into this format easily."
+
+The source is at: http://www.byjellyfish.com/files/OFmd2.zip
+
+Then Theo Watson make some changes to make it run nicely with freeimage and work with mac file paths.
+
+I made some minor changes in order to make it a easy ofx addon to use with a similar structure of ofx3DModelLoader.
+
+Enjoy
